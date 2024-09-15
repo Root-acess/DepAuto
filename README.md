@@ -34,6 +34,9 @@ This command will:
     Install all dependencies listed in package.json.
     Display engaging ASCII art to celebrate the successful installation.
 
+## Make Sure You Do NPM InIt First 
+
+
 ## Example
 
  
