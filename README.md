@@ -36,7 +36,8 @@ This command will:
 
 ## Example
 
-    Navigate to your project directory:
+ 
+ Navigate to your project directory:
 ``` bash
 
 cd path/to/your/project
